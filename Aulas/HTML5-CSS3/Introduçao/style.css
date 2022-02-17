@@ -50,3 +50,11 @@ a {
     margin-bottom: 15px;
 }
 
+.contacts_list {
+    list-style: none;
+    padding: 0 15px;
+}
+
+.contacts_list li a {
+    text-decoration: none;
+}
